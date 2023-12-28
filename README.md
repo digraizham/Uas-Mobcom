@@ -1,5 +1,8 @@
 # Uas Mobile Computing 119
 
+- Digra Murtaza Izham
+- 1313621010
+
 # Screenshots:
 <img src="/screenshots/day1.png" height="400px"/> <img src="/screenshots/night1.png" height="400px"/> 
 <img src="/screenshots/day2.png" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
