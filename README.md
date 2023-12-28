@@ -4,7 +4,7 @@
 - 1313621010
 
 # Screenshots:
-<img src="/screenshots/day1.png" height="400px"/> <img src="/screenshots/night1.png" height="400px"/> 
-<img src="/screenshots/day2.png" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
-<img src="/screenshots/day3.png" height="400px"/> <img src="/screenshots/night3.png" height="400px"/>
-<img src="/screenshots/day4.png" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/Light1.png" height="400px"/> <img src="/screenshots/Dark1.png" height="400px"/> 
+<img src="/screenshots/Light2.png" height="400px"/> <img src="/screenshots/Dark2.png" height="400px"/> 
+<img src="/screenshots/Light3.png" height="400px"/> <img src="/screenshots/Dark3.png" height="400px"/>
+<img src="/screenshots/Light4.png" height="400px"/> <img src="/screenshots/Dark4.png" height="400px"/> 
